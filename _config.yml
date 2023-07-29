@@ -1,10 +1,10 @@
 encoding: utf-8
 
 # SEO相关信息
-title: pplove3 Blog
-description: pplove3的个人博客
-keywords: sql,python,tableau,school,other
-author: pplove3
+title: ppgo8 Blog
+description: ppgo8的个人博客
+keywords: HTML,CSS,JavaScript,Vue,Nodejs,Webpack,other
+author: ppgo3
 footerText: 'Copyright © 2022 皖ICP备16016174号'
 
 # 这些不要动
@@ -41,7 +41,7 @@ menu:
     url: /pages/about.html
 
 # 点击页面文字冒出特效,不需要请设置为false
-extClickEffect: true
+extClickEffect: false
 
 # Google Adsense,不需要请设置为false
 # _includes/ext-adsense.html 里面修改为自己的配置
