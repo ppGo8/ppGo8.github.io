@@ -1,3 +1,10 @@
+---
+layout: mypost
+title: Express框架
+categories: [nodejs]
+extMath: true
+---
+
 # Express框架
 
 - http模块可以搭建http服务，给浏览器返回处理结果。

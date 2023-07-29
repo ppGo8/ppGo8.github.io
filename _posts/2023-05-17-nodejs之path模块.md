@@ -1,3 +1,12 @@
+---
+layout: mypost
+title: path模块
+categories: [nodejs]
+extMath: true
+---
+
+
+
 # path模块
 
 path模块提供了`操作文件路径`的功能，以下为常用的API。
