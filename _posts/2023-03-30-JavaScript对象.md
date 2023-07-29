@@ -1,3 +1,10 @@
+---
+layout: mypost
+title: JavaScript对象
+categories: [前端]
+extMath: true
+---
+
 # JavaScript对象
 
 学习目标：

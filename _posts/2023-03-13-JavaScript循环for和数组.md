@@ -1,3 +1,12 @@
+---
+layout: mypost
+title: JavaScript循环for和switch
+categories: [前端]
+extMath: true
+---
+
+
+
 # JavaScript循环for和switch
 
 ## if多分支和switch的区别

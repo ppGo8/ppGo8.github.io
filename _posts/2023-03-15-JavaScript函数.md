@@ -1,3 +1,12 @@
+
+
+---
+layout: mypost
+title: JavaScrpit函数
+categories: [前端]
+extMath: true
+---
+
 # 函数
 
 ## 为什么需要函数？
