@@ -1,6 +1,6 @@
 ---
 layout: mypost
-title: DOM获取元素
+title: Web APIs DOM获取元素
 categories: [前端]
 extMath: true
 ---

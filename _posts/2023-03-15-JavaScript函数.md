@@ -1,5 +1,3 @@
-
-
 ---
 layout: mypost
 title: JavaScrpit函数
