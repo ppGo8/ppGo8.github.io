@@ -11,7 +11,7 @@ extMath: true
 
 - 生活的路由和路由器是为了完成多台设备上网。
 
-<img src="6.路由.assets/image-20230712113541851.png" alt="image-20230712113541851" style="zoom:50%;" />
+<img src="image-20230712113541851.png" alt="image-20230712113541851" style="zoom:50%;" />
 
 - 开发编码里的路由和路由器是为了实现SPA应用的。
 
@@ -25,7 +25,7 @@ extMath: true
 
     页面应用丰富，用户体验更好。
 
-<img src="6.路由.assets/image-20230712115007256.png" alt="image-20230712115007256" style="zoom: 67%;" />
+<img src="image-20230712115007256.png" alt="image-20230712115007256" style="zoom: 67%;" />
 
 ### 什么是路由？
 
@@ -431,7 +431,7 @@ extMath: true
 
 - **作用**：使用`JS`实现**编程式**路由跳转；不借助`<router-link>`标签的方式实现路由跳转，让路由跳转更加灵活。
 
-  ![image-20230808200405710](6.路由.assets/image-20230808200405710.png)
+  ![image-20230808200405710](image-20230808200405710.png)
 
 - **实现**
 
